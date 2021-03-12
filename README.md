@@ -1,1 +1,2 @@
 # exemple-cours
+init
